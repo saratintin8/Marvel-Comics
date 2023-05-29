@@ -1,4 +1,4 @@
-import { Grid, Header, Image, Button } from 'semantic-ui-react';
+import { Grid, Button } from 'semantic-ui-react';
 
 export default function Error404() {
     return (
